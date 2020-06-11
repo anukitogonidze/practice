@@ -1,0 +1,30 @@
+.conteiner{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+
+}
+.box1{
+	margin: 10px;
+
+}
+.h3{
+	text-align: center;
+	background: grey;
+}
+.h5{
+	text-align: center;
+	background: #DCDCDC;
+}
+.popular{
+	display: flex;
+	
+	justify-content: space-between;
+}
+.l{
+	font-size: 20px;
+	color: red;
+}
+.header{
+	color: red;
+}
